@@ -1,7 +1,7 @@
 rgb2vga
 =======
 
-Some changes
+Some changes to test CLA
 
 Analog RGB 15Khz to VGA 31Khz in FPGA
 
